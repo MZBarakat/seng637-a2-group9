@@ -2,4 +2,4 @@
 
 ## Important Note:
 
-The exported runnable jar file for eclipse import is in the jar folder.
+The exported runnable jar file from eclipse including the external jars used is in the jar folder.
